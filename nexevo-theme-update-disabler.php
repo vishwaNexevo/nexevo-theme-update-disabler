@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Nexevo - Theme Update & File Edit Disabler
- * Plugin URI: https://www.nexevo.in/plugins/theme-update-disabler
+ * Plugin URI: https://github.com/vishwaNexevo/nexevo-theme-update-disabler
  * Description: Completely disables theme updates, plugin updates, core updates, and prevents manual update actions or file editing in WordPress.
  * Version: 1.0.0
  * Author: Nexevo Technologies
@@ -9,7 +9,6 @@
  * License: GPLv2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: auto-update-disabler
- * Domain Path: /languages
  */
 
 // Exit if accessed directly
